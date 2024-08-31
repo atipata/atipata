@@ -1,7 +1,10 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Atipat
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Atipat ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
 
 Studying...😭
+
+
+<p align="center"/>![](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif) </p>
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [beau.atipat@gmail.com](mailto:beau.atipat@gmail.com)
