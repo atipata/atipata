@@ -6,7 +6,8 @@ Studying...😭
 
 
   <p align="ceter"/ >
-    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif](https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png"  width="36" height="36" /> </p>
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> 
+  </p>
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [beau.atipat@gmail.com](mailto:beau.atipat@gmail.com)
