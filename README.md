@@ -4,7 +4,8 @@
 Studying...😭
 
 
-<p align="center"/>![](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif) </p>
+
+  ![](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif) 
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [beau.atipat@gmail.com](mailto:beau.atipat@gmail.com)
