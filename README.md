@@ -40,10 +40,11 @@
 </div>
 
 ###
-
- <a href="https://monkeytype.com/profile/atipata" align="center">
-   <img src="https://github.com/atipata/atipata/blob/main/atipata-monkeytype-readme.svg" alt="My Monkeytype profile" />
- </a>
+<div align="center">
+   <a href="https://monkeytype.com/profile/atipata" >
+     <img src="https://github.com/atipata/atipata/blob/main/atipata-monkeytype-readme.svg" alt="My Monkeytype profile" />
+   </a>
+ </div>
 
 ###
 
