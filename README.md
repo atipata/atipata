@@ -46,7 +46,7 @@
 ###
 
  <a href="https://monkeytype.com/profile/atipata">
-   <img src="https://raw.githubusercontent.com/atipata/atipata/atipata-monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+   <img src="https://github.com/atipata/atipata/blob/main/atipata-monkeytype-readme.svg" alt="My Monkeytype profile" />
  </a>
 
 
