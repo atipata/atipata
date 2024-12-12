@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 5 years ago TT<br>📚 I'm currently learning Qt and Typing... for hobby<br>🎯 Goals: Enhance my coding skills!<br>(My profile name's Popcorn)</p>
+<p align="left">
+  ✨ Creating bugs since 5 years ago TT<br>
+  📚 I'm currently learning Qt for hobby<br>
+  📚 I'm currently Typing... for hobby!<br>
+  📚 I'm currently Sketching for hobby!!<br>
+  🎯 Goals: Enhance my coding skills!<br>
+  (My profile name's Popcorn)</p>
 
 ###
 
