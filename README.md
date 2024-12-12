@@ -41,14 +41,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/atipata/atipata/output/snake.svg" alt="Snake animation" />
-
-###
-
  <a href="https://monkeytype.com/profile/atipata">
    <img src="https://github.com/atipata/atipata/blob/main/atipata-monkeytype-readme.svg" alt="My Monkeytype profile" />
  </a>
 
+###
+
+<img src="https://raw.githubusercontent.com/atipata/atipata/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/atipat-beau-a8a592338/" target="_blank">
