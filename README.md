@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  ✨ Creating bugs since 5 years ago TT<br>
+  ✨ Creating bugs since 3 years ago TT<br>
   📚 I'm currently learning Qt for hobby<br>
   📚 I'm currently Typing... for hobby!<br>
   📚 I'm currently Sketching for hobby!!<br>
