@@ -46,6 +46,11 @@
 </div>
 
 ###
+###
+
+<h2 align="left">Monkeytype profile</h2>
+
+###
 <div align="center">
    <a href="https://monkeytype.com/profile/atipata" >
      <img src="https://github.com/atipata/atipata/blob/main/atipata-monkeytype-readme.svg" alt="My Monkeytype profile" />
