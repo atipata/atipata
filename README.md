@@ -58,6 +58,11 @@
  </div>
 
 ###
+###
+
+<h2 align="left">Social Media</h2>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/atipat-beau-a8a592338/" target="_blank">
