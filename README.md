@@ -36,7 +36,7 @@
 
 ###
 
-<p align="center" ><strong></strong>int main(){std::cout << "Hello_World!" << std::endl; }</strong></p>
+<p align="center" ><strong>int main(){std::cout << "Hello_World!" << std::endl; }</strong></p>
 
 ###
 
