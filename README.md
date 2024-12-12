@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 5 years ago TT<br>📚 I'm currently learning Qt for hobby<br>🎯 Goals: Enhance my coding skills!<br>(My profile name's Popcorn)</p>
+<p align="left">✨ Creating bugs since 5 years ago TT<br>📚 I'm currently learning Qt and Typing... for hobby<br>🎯 Goals: Enhance my coding skills!<br>(My profile name's Popcorn)</p>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
- <a href="https://monkeytype.com/profile/atipata">
+ <a href="https://monkeytype.com/profile/atipata" align="center">
    <img src="https://github.com/atipata/atipata/blob/main/atipata-monkeytype-readme.svg" alt="My Monkeytype profile" />
  </a>
 
