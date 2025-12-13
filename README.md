@@ -45,12 +45,7 @@
 </div>
 
 ###
-###
 
-<h2 align="left">Monkeytype profile</h2>
-
-
-###
 
 <h2 align="left">Social Media</h2>
 
