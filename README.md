@@ -1,19 +1,3 @@
-<h1 align="left">Hey 👋 What's up?<br>I'm Atipat :)</h1>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  ✨ Creating bugs since 3 years ago TT<br>
-  📚 I'm currently Typing... for hobby!<br>
-  📚 I'm currently Sketching for hobby!!<br>
-  🎯 Goals: Enhance my coding skills!<br>
-  (My profile name's Popcorn)</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
